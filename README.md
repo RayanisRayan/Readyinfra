@@ -1,5 +1,7 @@
 # Readyinfra
-Setup guide:
+ReadyInfra provides a way for private clouds to easily integrate FAAS functionalities to their systems. Facilitating scalability without the need of extreme configurations. 
+
+# Setup
 # VM
 For the VM we will use the latest Ubuntu version, download the ISO and setup the VM like we normally do. 
 
